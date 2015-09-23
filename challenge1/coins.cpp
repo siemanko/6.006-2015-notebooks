@@ -49,7 +49,8 @@ int main() {
     }
 
     // new problem: find a pair of elements in the array,
-    // that are furthest away possible.
+    // that have the same value and that are furthest
+    // away possible.
 
     int res = 0;
 
