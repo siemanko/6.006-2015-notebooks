@@ -9,5 +9,5 @@ g++ coins.cpp -O2 -o coins
 To run Python solution run
 
 ```bash
-./run_tests.sh python3 coins.py
+./run_tests.sh python2 coins.py
 ```
